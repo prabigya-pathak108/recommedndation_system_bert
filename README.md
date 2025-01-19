@@ -93,7 +93,7 @@ graph TD
 query = "Give me mobile devices like Redmi Note 12"
 result = get_similar_product_from_query(query)
 ```
-![Supported File Formats](https://github.com/prabigya-pathak108/recommedndation_system_bert/blob/main/images/redmi_not_12.PNG)
+![Supported File Formats](https://github.com/prabigya-pathak108/recommedndation_system_bert/blob/main/images/redmi_note_12.PNG)
 
 ```python
 # Product Search Example
@@ -108,7 +108,7 @@ result = get_similar_product_from_query(query)
 query = "Give me mobile devices like Samsung Galaxy s10"
 result = get_similar_product_from_query(query)
 ```
-![Supported File Formats](https://github.com/prabigya-pathak108/recommedndation_system_bert/blob/main/images/redmi_not_12.PNG)
+![Supported File Formats](https://github.com/prabigya-pathak108/recommedndation_system_bert/blob/main/images/samsung_galaxy_s10.PNG)
 
 
 ```python

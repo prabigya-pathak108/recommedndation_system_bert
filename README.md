@@ -160,9 +160,4 @@ The system evaluates recommendations based on:
 
 ## 👥 Contributors
 
-- [Your Name]
-- [Other Contributors]
-
-## 📄 License
-
-[Your License Information]
+- Prabigya Pathak

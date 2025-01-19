@@ -93,14 +93,14 @@ graph TD
 query = "Give me mobile devices like Redmi Note 12"
 result = get_similar_product_from_query(query)
 ```
-![Supported File Formats](https://raw.githubusercontent.com/prabigya-pathak108/ConvoAgentiChatbot/refs/heads/main/images/redmi_not_12.PNG)
+![Supported File Formats](https://github.com/prabigya-pathak108/recommedndation_system_bert/refs/heads/main/images/redmi_not_12.PNG)
 
 ```python
 # Product Search Example
 query = "Give me best phones with minimum 8Gb ram, 128gb Rom and of samsung brand."
 result = get_similar_product_from_query(query)
 ```
-![Supported File Formats](https://raw.githubusercontent.com/prabigya-pathak108/ConvoAgentiChatbot/refs/heads/main/images/sam_brand.PNG)
+![Supported File Formats](https://github.com/prabigya-pathak108/recommedndation_system_bert/refs/heads/main/images/sam_brand.PNG)
 
 
 ```python
@@ -108,7 +108,7 @@ result = get_similar_product_from_query(query)
 query = "Give me mobile devices like Samsung Galaxy s10"
 result = get_similar_product_from_query(query)
 ```
-![Supported File Formats](https://raw.githubusercontent.com/prabigya-pathak108/ConvoAgentiChatbot/refs/heads/main/images/redmi_not_12.PNG)
+![Supported File Formats](https://github.com/prabigya-pathak108/recommedndation_system_bert/refs/heads/main/images/redmi_not_12.PNG)
 
 
 ```python
@@ -116,7 +116,7 @@ result = get_similar_product_from_query(query)
 data={"user_id":100}
 recommendations = get_recommendations(user_preferences)
 ```
-![Chunking Methods](https://raw.githubusercontent.com/prabigya-pathak108/ConvoAgentiChatbot/refs/heads/main/images/rec_100.PNG)
+![Chunking Methods](https://github.com/prabigya-pathak108/recommedndation_system_bert/refs/heads/main/images/rec_100.PNG)
 
 
 ```python
@@ -124,7 +124,7 @@ recommendations = get_recommendations(user_preferences)
 data={"user_id":190}
 recommendations = get_recommendations(user_preferences)
 ```
-![Chunking Methods](https://raw.githubusercontent.com/prabigya-pathak108/ConvoAgentiChatbot/refs/heads/main/images/rec_190.PNG)
+![Chunking Methods](https://github.com/prabigya-pathak108/recommedndation_system_bert/refs/heads/main/images/rec_190.PNG)
 ## ⚙️ Setup and Installation
 
 1. Clone the repository
